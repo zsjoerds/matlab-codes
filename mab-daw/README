@@ -1,0 +1,6 @@
+A series of scripts to analyse behavioral data from the multi (4) arm bandit ('mab') task by Daw et al., 2006. 
+Scripts include steps for data prep, raw data analysis, and modeling (e.g. Q-learning).
+
+Overall structure is the same: edit the %%MODIFYME%% field to customize, then the rest should be able to run independently.
+
+In great collaboration with Marieke Jepma, Leiden University.
